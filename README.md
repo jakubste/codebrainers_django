@@ -11,4 +11,4 @@ https://docs.djangoproject.com/en/2.1/topics/class-based-views/intro/
 
 
 Generic class based views:
-https://docs.djangoproject.com/en/2.1/topics/class-based-views/generic-display/
+https://docs.djangoproject.com/en/2.1/ref/class-based-views/
